@@ -1,5 +1,5 @@
-<h1>PROJETO X</h1>
-<p>Projeto consiste em uma pagina que usara</p>
+<h1>Website-homePage</h1>
+<p>Projeto consiste em uma pagina inicial de um site usando bootstrap</p>
 
 <ul>
 <li>HTML</li>
