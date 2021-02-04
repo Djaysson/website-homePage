@@ -11,7 +11,7 @@ O **Website-homePage** era treinar minha capacidade de criação de interface ut
 
 <p align="center">
 
-  <img alt="design do projeto" width="650px" src="./img/projeto.png" />
+  <img alt="design do projeto" width="650px" src="https://github.com/Djaysson/website-homePage/blob/master/img/projeto.PNG" />
 <p>
 
 ## Sobre
