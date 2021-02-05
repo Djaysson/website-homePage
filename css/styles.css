@@ -71,4 +71,16 @@ body{
  color: #FFF;
 
 }
+.imgContato{
+  width: 48px;
+  height: 48px;
+}
+.imgLogo{
+  width: 100px;
+  height: 70px;
+}
+.imgContato:hover{
+  background: #800000;
+  opacity: 0.5;
+}
 
